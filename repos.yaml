@@ -22,11 +22,11 @@ repositories:
     version: main
   user_interfacing/usgs-scripts:
     type: git
-    url: git@github.com:team-mountaineers-urc-2023/usgs-scripts.git
+    url: git@github.com:team-mountaineers-urc-2023/usgs_scripts.git
     version: main
-  user_interfacing/utils-scripts:
+  user_interfacing/utils_scripts:
     type: git
-    url: git@github.com:team-mountaineers-urc-2023/utils-scripts.git
+    url: git@github.com:team-mountaineers-urc-2023/utils_scripts.git
     version: main
 
   hardware_interfacing/antenna_control:
@@ -134,7 +134,7 @@ repositories:
   sim/rover_sim:
     type: git
     url: git@github.com:team-mountaineers-urc-2023/rover_sim.git
-    version: master
+    version: main
   sim/aruco_sim:
     type: git
     url: git@github.com:team-mountaineers-urc-2023/aruco_sim.git
